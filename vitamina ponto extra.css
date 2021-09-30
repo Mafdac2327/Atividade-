@@ -1,0 +1,91 @@
+body {
+    margin: 0px;
+    
+
+}
+span{
+    color: #F6F740;
+
+}
+#titleprincipal {
+    background-color: #fc6400;
+    padding: 8px; 
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border: 3px solid white;
+
+}
+.vitaminas{
+    margin: 0px 64px 64px;
+    border: 3px solid white;
+
+}
+.abacate{
+    margin: 32px;
+    border: 3px solid white;
+}
+.açai{
+    margin: 32px;
+    border: 3px solid white;
+}
+.aveia{
+    margin: 32px;
+    border: 3px solid white;
+}
+.morango{
+    margin: 32px;
+    border: 3px solid white;
+
+}
+.pessego{
+    margin: 32px;
+    border: 3px solid white;
+
+}
+.roma{
+    margin: 32px;
+    border: 3px solid white;
+    
+}
+.image{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.corpo{
+    color: white;
+    
+    font-size: 22px;
+    background-color: #fc6400;
+    padding: 16px;
+    
+
+}
+#titlebaixo{
+    text-align: center;
+    font-size: 28px;
+   
+
+}
+#lactose{
+    width: 600px;
+    height: 300px;
+    padding: 8px;
+    margin-left: 30%;
+   
+
+}
+#foto{
+    border: 3px solid white;
+
+}
+#rodape{
+    background-color: #fc6400;
+    padding: 8px; 
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border: 3px solid white;
+}
